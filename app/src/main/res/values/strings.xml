@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SmartGreenHouse</string>
+    <string name="capture_photo">Capture Photo</string>
+    <string name="from_gallary">From Gallary</string>
+    <string name="smoke">Smoke</string>
+    <string name="dht11">Temp &amp; Humid</string>
+    <string name="tank_level">Tank level</string>
+    <string name="ph_level">PH Value</string>
+    <string name="moisture">Moisture</string>
+    <string name="ldr">LDR</string>
+    <string name="dht11_readings_will_appear_hear">dht11 readings will appear hear</string>
+    <string name="smoke_readings_will_appear_hear">Smoke readings will appear hear</string>
+    <string name="tank_level_will_appear_hear">Tank level readings will appear hear</string>
+    <string name="ph_level_will_appear_hear">PH Level readings will appear hear</string>
+    <string name="moisture_level_will_appear_hear">Moisture level readings will appear hear</string>
+    <string name="ldr_readings_iwll_appear_hear">LDR readings will appear hear</string>
+</resources>
